@@ -9,9 +9,7 @@ export default function Page() {
       <p className="mb-4">
         I'm a student studying economics and Entrepreneurship at RMIT university.
       </p>
-      <div className="my-8">
-{/*         <BlogPosts /> */}
-      </div>
+      {/* <div className="my-8"> <BlogPosts /> </div> */}
     </section>
   )
 }
